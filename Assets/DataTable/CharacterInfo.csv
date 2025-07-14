@@ -1,0 +1,4 @@
+﻿*InfoID,Name,Desc,Attack,AttackRange,ControllerPath
+식별자,이름,설명,공격력,공격 범위,애니메이션
+int,string,string,float,float,string
+1,리자드맨 검사,리자드맨 검사다,5,2,Assets/Art/Animation/Character/BrawnyOgre.controller
